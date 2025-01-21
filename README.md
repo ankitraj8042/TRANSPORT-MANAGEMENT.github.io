@@ -24,7 +24,7 @@
         </ul>
         <h2>🌐 Find Me Online</h2>
         <ul>
-            <li><a href="https://github.com/your-github-username" target="_blank">GitHub</a></li>
+            <li><a href="https://github.com/ankitraj8042">GitHub</a></li>
             <li><a href="https://www.linkedin.com/in/ankit-raj-3ab304326/" target="_blank">LinkedIn</a></li>
         </ul>
         <h2>TRANSPORT MANAGEMENT SYSTEM</h2>
